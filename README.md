@@ -5,5 +5,5 @@ This project is an operating system created by following the guide at [operating
 ## TODO
 
 - [ ] Complete all sections in the [guide](https://operating-system-in-1000-lines.vercel.app/en/)
-- [ ] Implement Github Actions CI build
+- [v] Implement Github Actions CI build
 - [ ] Replace BIOS with UEFI edk2 implementation
